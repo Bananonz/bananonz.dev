@@ -1,2 +1,4 @@
 # bananonz.dev
-My new website 
+My new website
+
+on https://bananonz.dev
